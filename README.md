@@ -1,5 +1,4 @@
 # GitHub Exercise!
-<<<<<<< HEAD
 
 ## Goal of this Exercise:
 1. Simulate making code changes on projects and homework
